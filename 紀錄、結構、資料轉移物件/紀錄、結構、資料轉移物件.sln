@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "紀錄、結構、資料轉移物件", "紀錄、結構、資料轉移物件\紀錄、結構、資料轉移物件.pyproj", "{151D245E-5615-40E5-AEE4-E8D02AE65425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151D245E-5615-40E5-AEE4-E8D02AE65425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151D245E-5615-40E5-AEE4-E8D02AE65425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3CB54A0-DF3D-4649-AFB9-CEB8CE835786}
+	EndGlobalSection
+EndGlobal

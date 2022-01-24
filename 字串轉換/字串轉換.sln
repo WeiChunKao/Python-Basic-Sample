@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "字串轉換", "字串轉換\字串轉換.pyproj", "{F8CA2EEC-6CAF-49D3-B9AD-304095BFCA16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8CA2EEC-6CAF-49D3-B9AD-304095BFCA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CA2EEC-6CAF-49D3-B9AD-304095BFCA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC40374F-B5D9-4F02-AFD8-AAC16090DF45}
+	EndGlobalSection
+EndGlobal

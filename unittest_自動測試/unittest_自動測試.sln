@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "unittest_自動測試", "unittest_自動測試\unittest_自動測試.pyproj", "{3BD248A5-DA84-4D1B-BCED-483B39DA336C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD248A5-DA84-4D1B-BCED-483B39DA336C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD248A5-DA84-4D1B-BCED-483B39DA336C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AB8CF95-A6B8-444E-B87D-F0B67B16D724}
+	EndGlobalSection
+EndGlobal

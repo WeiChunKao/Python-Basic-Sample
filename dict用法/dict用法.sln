@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dict用法", "dict用法\dict用法.pyproj", "{12552D00-B13E-45AB-A22B-9705D8FAA0B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12552D00-B13E-45AB-A22B-9705D8FAA0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12552D00-B13E-45AB-A22B-9705D8FAA0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55A34436-F707-40CB-93C2-8F8B1BB89BB4}
+	EndGlobalSection
+EndGlobal

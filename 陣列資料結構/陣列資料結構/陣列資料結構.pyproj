@@ -1,0 +1,52 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>e1f09865-26f9-489a-9db3-a151a2b0c087</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>bytearray_可變的位元組陣列.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>陣列資料結構</Name>
+    <RootNamespace>陣列資料結構</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="array_固定型別的基本陣列.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bytearray_可變的位元組陣列.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bytes_不可變的位元組陣列.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="list_可變的動態陣列.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="str_不可變的Uncode字元陣列.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tuples_不可變的容器.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
